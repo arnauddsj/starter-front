@@ -1,2 +1,2 @@
-# starter-front
- Start front-end vuejs for auth APP
+# Starter Front
+ Starter front-end in vuejs for auth APP
